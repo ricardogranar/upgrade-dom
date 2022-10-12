@@ -9,3 +9,6 @@ console.log(p$$);
 
 const allPokemons$$ = document.querySelectorAll(".pokemon")
 console.log(allPokemons$$)
+
+const allHeroes$$ = document.querySelectorAll("[data-function='testMe']")
+console.log(allHeroes$$)
