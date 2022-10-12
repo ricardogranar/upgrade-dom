@@ -12,3 +12,5 @@ console.log(allPokemons$$)
 
 const allHeroes$$ = document.querySelectorAll("[data-function='testMe']")
 console.log(allHeroes$$)
+
+console.log(allHeroes$$[2])
